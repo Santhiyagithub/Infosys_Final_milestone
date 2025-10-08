@@ -1,0 +1,6 @@
+__pycache__/
+outputs/
+.easyocr/
+.env
+.vscode/
+.DS_Store
