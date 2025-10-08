@@ -25,3 +25,33 @@ python -m venv .venv
 source .venv/bin/activate # or .\.venv\Scripts\activate on Windows
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+
+## Usage
+
+- Upload image (png/jpg/jpeg)
+
+- Click Run OCR (app extracts text)
+
+- Ask questions in the chatbot section
+
+## License
+
+This project is released under the MIT License.
+
+## GitHub: Create repo & push (commands)
+
+
+Run locally in project root (after creating folder and files):
+
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: Smart OCR Chatbot"
+# create repo on GitHub (name: smart-ocr-chatbot) then:
+git remote add origin https://github.com/<your-username>/smart-ocr-chatbot.git
+git branch -M main
+git push -u origin main
+```
