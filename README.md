@@ -19,7 +19,7 @@ A lightweight Streamlit application to extract text from images (OCR) and intera
 
 ## Setup
 ```bash
-git clone https://github.com/<your-username>/smart_ocr_chatbot.git
+git clone https://github.com/santhiyagithub/smart_ocr_chatbot.git
 cd smart_ocr_chatbot
 python -m venv .venv
 source .venv/bin/activate # or .\.venv\Scripts\activate on Windows
